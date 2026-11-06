@@ -1,0 +1,6 @@
+{
+  "name": "AegisVPN - Global Zero-Log Privacy Network",
+  "description": "Next-generation VPN client for PC and mobile with one-click instant connect, global servers across 60+ countries, diskless RAM-only servers, and strict no-logs policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
